@@ -1,0 +1,92 @@
+.col,
+.col-2 {
+  padding: 0;
+}
+
+.station {
+  position: relative;
+  bottom: 20px;
+}
+
+.item_1 {
+  position: relative;
+  right: 15px;
+}
+
+.item_2 {
+  position: relative;
+  right: 30px;
+}
+
+.item_3 {
+  position: relative;
+  right: 45px;
+}
+
+.item_4 {
+  position: relative;
+  right: 60px;
+}
+
+.item_5 {
+  position: relative;
+  right: 75px;
+}
+
+.item_6 {
+  position: relative;
+  right: 90px;
+}
+
+.item_7 {
+  position: relative;
+  right: 115px;
+}
+
+.item_8 {
+  position: relative;
+  right: 130px;
+}
+
+.item_9 {
+  position: relative;
+  right: 145px;
+}
+
+.item_10 {
+  position: relative;
+  right: 160px;
+}
+
+.item_11 {
+  position: relative;
+  right: 175px;
+}
+
+.item_12 {
+  position: relative;
+  right: 190px;
+}
+
+.item_13 {
+  position: relative;
+  right: 205px;
+}
+
+.rotated-pipe {
+  transform: rotate(90deg);
+  position: relative;
+}
+
+.rotated-pipe-1 {
+  bottom: 10px;
+}
+
+.first {
+  position: relative;
+  bottom: 20px;
+}
+
+/* .rotated-pipe-2 {
+  bottom: 300px;
+} */
